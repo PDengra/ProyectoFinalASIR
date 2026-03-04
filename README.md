@@ -1,31 +1,32 @@
-📄 Comparto mi Proyecto Final completo de ASIR
+# Proyecto Final ASIR — Sistema de Monitorización con Raspberry Pi
 
-Hace un tiempo publiqué un resumen de mi Proyecto Final del Ciclo Superior de Administración de Sistemas Informáticos en Red (ASIR), donde desarrollé un sistema de monitorización basado en una Raspberry Pi 5.
+Este repositorio contiene la memoria de mi Proyecto Final del ciclo superior de Administración de Sistemas Informáticos en Red (ASIR).
 
-Hoy quiero compartir el proyecto completo, incluyendo toda la documentación técnica, arquitectura, diseño e implementación paso a paso.
+## Objetivo
 
-🔎 En el proyecto se puede ver en detalle:
+Diseñar e implantar un sistema completo de monitorización capaz de centralizar métricas, logs y alertas utilizando herramientas open source.
 
-• Diseño de la arquitectura de monitorización
+## Stack utilizado
 
-• Despliegue del stack completo
+- Prometheus
+- Grafana
+- Loki
+- Promtail
+- Alertmanager
+- Telegram Bot API
+- Raspberry Pi 5
+- Linux
 
-• Configuración de Prometheus para recolección de métricas
+## Funcionalidades
 
-• Creación de dashboards en Grafana
+- Monitorización de métricas (CPU, RAM, red, servicios)
+- Centralización de logs
+- Dashboards en Grafana
+- Sistema de alertas automáticas
+- Notificaciones en Telegram
 
-• Centralización de logs con Loki y Promtail
+## Documentación
 
-• Configuración de alertas con Alertmanager
+La memoria completa del proyecto se encuentra en el siguiente archivo:
 
-• Integración con Telegram Bot API para notificaciones automáticas
-
-• Uso de exporters para monitorizar servicios como MySQL, Nginx o Apache
-
-• Análisis de métricas de CPU, RAM, red y estado de servicios
-
-💡 El objetivo del proyecto fue demostrar que incluso con recursos limitados es posible implementar una solución de observabilidad realista, similar a las utilizadas en entornos profesionales.
-
-Este trabajo me ha permitido profundizar en administración de sistemas, monitorización, observabilidad y herramientas muy utilizadas en entornos DevOps.
-
-Cualquier feedback o sugerencia es bienvenido.
+📄 **Proyecto_Final_ASIR_Monitorizacion.pdf**
