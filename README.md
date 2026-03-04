@@ -20,8 +20,4 @@ Hoy quiero compartir el proyecto completo, incluyendo toda la documentación té
 
 Este trabajo me ha permitido profundizar en administración de sistemas, monitorización, observabilidad y herramientas muy utilizadas en entornos DevOps.
 
-📎 En esta publicación podéis ver el proyecto completo.
-
 Cualquier feedback o sugerencia es bienvenido.
-
-#ASIR #Monitorización #DevOps #Prometheus #Grafana #Linux #RaspberryPi #SysAdmin
