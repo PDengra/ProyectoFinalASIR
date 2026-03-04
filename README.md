@@ -7,6 +7,7 @@ Hoy quiero compartir el proyecto completo, incluyendo toda la documentación té
 🔎 En el proyecto se puede ver en detalle:
 
 • Diseño de la arquitectura de monitorización
+
 • Despliegue del stack completo
 • Configuración de Prometheus para recolección de métricas
 • Creación de dashboards en Grafana
