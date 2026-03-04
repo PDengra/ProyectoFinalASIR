@@ -1,6 +1,6 @@
 📄 Comparto mi Proyecto Final completo de ASIR
 
-Hace unos días publiqué un resumen de mi Proyecto Final del Ciclo Superior de Administración de Sistemas Informáticos en Red (ASIR), donde desarrollé un sistema de monitorización basado en una Raspberry Pi 5.
+Hace un tiempo publiqué un resumen de mi Proyecto Final del Ciclo Superior de Administración de Sistemas Informáticos en Red (ASIR), donde desarrollé un sistema de monitorización basado en una Raspberry Pi 5.
 
 Hoy quiero compartir el proyecto completo, incluyendo toda la documentación técnica, arquitectura, diseño e implementación paso a paso.
 
