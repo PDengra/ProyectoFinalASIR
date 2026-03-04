@@ -9,12 +9,19 @@ Hoy quiero compartir el proyecto completo, incluyendo toda la documentación té
 • Diseño de la arquitectura de monitorización
 
 • Despliegue del stack completo
+
 • Configuración de Prometheus para recolección de métricas
+
 • Creación de dashboards en Grafana
+
 • Centralización de logs con Loki y Promtail
+
 • Configuración de alertas con Alertmanager
+
 • Integración con Telegram Bot API para notificaciones automáticas
+
 • Uso de exporters para monitorizar servicios como MySQL, Nginx o Apache
+
 • Análisis de métricas de CPU, RAM, red y estado de servicios
 
 💡 El objetivo del proyecto fue demostrar que incluso con recursos limitados es posible implementar una solución de observabilidad realista, similar a las utilizadas en entornos profesionales.
